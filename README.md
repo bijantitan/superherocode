@@ -15,7 +15,7 @@ Everything you need to complete the activity is in the course! Feel free to go b
 
 * Then go through the code in the ***src*** folder. The src folder will contain **basic pseudocode** for each part of the web application we need a secure design for. 
 
-* For each page,analyze the code and decide how it can be secured.
+* For each page, analyze the code and decide how it can be secured.
 
 * Using the PDF template provided, add your suggestion for each page, creating a security checklist for the web app developer.  
 
